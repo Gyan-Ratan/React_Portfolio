@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gyanratan.vercel.com/sitemap.xml
+Host: https://gyanratan.vercel.com
